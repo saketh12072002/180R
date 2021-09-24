@@ -185,6 +185,7 @@
   
 #videos > div {
   background-color: #ffffff;
+  width: 30vw;
   margin: 1vw;
   box-shadow: 0 0 8px #818181 ;
   border-radius: 10px;
@@ -219,7 +220,7 @@
   }
     
   #videos > div {
-   
+    width: 85vw;
     text-align: center;
     font-size: 2vw;
     margin: 2vw;
@@ -281,7 +282,7 @@
   }
     
   #videos > div {
-    
+    width: 85vw;
     text-align: center;
     font-size: 2vw;
     margin: 2vw;
@@ -325,4 +326,3 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 }
-
